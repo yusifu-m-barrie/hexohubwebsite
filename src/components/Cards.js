@@ -9,6 +9,7 @@ function Cards() {
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
+
             <CardItem
               src='images/img-9.jpg'
               text='We develop diferent types of websites'
@@ -26,26 +27,6 @@ function Cards() {
                 text='We develop diferent types of websites'
                 label='Website Development'
                 path='/services'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <CardItem
-              src='images/img-3.jpg'
-              text='We develop diferent types of websites'
-              label='Website Development'
-              path='/services'
-            />
-            <CardItem
-              src='images/img-4.jpg'
-              text='We develop diferent types of websites'
-              label='Website Development'
-              path='/services'
-            />
-            <CardItem
-              src='images/img-8.jpg'
-              text='We develop diferent types of websites'
-              label='Website Development'
-              path='/services'
             />
           </ul>
         </div>

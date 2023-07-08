@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hexohubwebsite/static/css/main.4f9efd92.chunk.css",
+    "main.js": "/hexohubwebsite/static/js/main.3deb8fab.chunk.js",
+    "main.js.map": "/hexohubwebsite/static/js/main.3deb8fab.chunk.js.map",
+    "runtime-main.js": "/hexohubwebsite/static/js/runtime-main.ae90f175.js",
+    "runtime-main.js.map": "/hexohubwebsite/static/js/runtime-main.ae90f175.js.map",
+    "static/js/2.df6926fe.chunk.js": "/hexohubwebsite/static/js/2.df6926fe.chunk.js",
+    "static/js/2.df6926fe.chunk.js.map": "/hexohubwebsite/static/js/2.df6926fe.chunk.js.map",
+    "index.html": "/hexohubwebsite/index.html",
+    "precache-manifest.7e0a06b2444acbaab5256e2a7aea5853.js": "/hexohubwebsite/precache-manifest.7e0a06b2444acbaab5256e2a7aea5853.js",
+    "service-worker.js": "/hexohubwebsite/service-worker.js",
+    "static/css/main.4f9efd92.chunk.css.map": "/hexohubwebsite/static/css/main.4f9efd92.chunk.css.map",
+    "static/js/2.df6926fe.chunk.js.LICENSE.txt": "/hexohubwebsite/static/js/2.df6926fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae90f175.js",
+    "static/js/2.df6926fe.chunk.js",
+    "static/css/main.4f9efd92.chunk.css",
+    "static/js/main.3deb8fab.chunk.js"
+  ]
+}

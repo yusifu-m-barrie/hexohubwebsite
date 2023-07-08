@@ -5,7 +5,6 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Services from './components/pages/Services';
 import Contact from './components/pages/Contact';
-import SignUp from './components/pages/SignUp';
 import About from "./components/pages/About";
 import Works from "./components/pages/Works";
 import Clients from "./components/pages/Clients";
@@ -22,7 +21,6 @@ function App() {
           <Route path='/works' component={Works}/>
           <Route path='/clients' component={Clients}/>
           <Route path='/contact' component={Contact} />
-          {/*<Route path='/sign-up' component={SignUp} />*/}
         </Switch>
       </Router>
     </>
